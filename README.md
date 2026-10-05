@@ -12,7 +12,7 @@
 
 - 🏛️ **Statistical Officer** at **Directorate of Economics & Statistics (DE&S), Odisha** (Data Lab & Innovation Cell / Price Statistics).
 - 📈 Leading district-level **Consumer Price Index (CPI)** rollout across 30 districts and engineered an **Entropy-based Composite Index for the MSME Sector**.
-- 🛠️ Deployed statewide digital data capture via **Survey Solutions (CAPI)** and built automated pipelines transitioning workflows from MS Access to analytical datasets.
+- 🛠️ Led statewide CAPI deployment with Survey Solutions and developed end-to-end Python data pipelines using Claude Code to extract, validate, and dynamically compute monitoring indicators in Excel..
 - 🎓 **M.Sc. in Mathematics & Computing** from **IIT Guwahati**; currently pursuing **M.A. in Economics** (IGNOU).
 - 🌐 World Bank-trained fellow in **Government Analytics** and **Survey Solutions**.
 
